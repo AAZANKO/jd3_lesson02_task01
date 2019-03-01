@@ -13,4 +13,5 @@ public class CorrectStringTest {
         boolean resultCorrectString = correctString.getCorrectString("hi123 (yg [uog (vrd) ]5)674 (gio h87y) hui {n hg768} ");
         Assert.assertNotNull(resultCorrectString);
     }
+
 }

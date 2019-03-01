@@ -51,5 +51,4 @@ public class CorrectString {
         }
         return true;
     }
-
 }
